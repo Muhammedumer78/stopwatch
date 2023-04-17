@@ -1,3 +1,3 @@
 # stopwatch
 
-its a simple stopwatch using html
+Its a simple stopwatch using HTML.
